@@ -2,7 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: lightblue;
 }
 img {
-  width: 50px;
+  width: 500px;
 }
